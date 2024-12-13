@@ -43,7 +43,7 @@ export const Home = () => {
                     <div id="button_p" className="ac_btn btn ">
                       My Portfolio
                       <div className="ring one"></div>
-                      <div className="ring two"></div>
+                      <div className="ring two"></div>n
                       <div className="ring three"></div>
                     </div>
                   </Link>
